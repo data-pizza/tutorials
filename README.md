@@ -1,8 +1,8 @@
 # DataPizza Tutorials
 
-🍕<p align="left"> <img src="https://komarev.com/ghpvc/?username=datapizza&label=Profile%20views&color=0e75b6&style=flat" alt="datapizza"/> </p>🍕
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=datapizza&label=Profile%20views&color=0e75b6&style=flat" alt="datapizza"/> </p>
 
-Benvenuti nel repository dei tutorials di DataPizza.
+Benvenuti nel repository dei tutorials di DataPizza🍕
 
 <br>
 
